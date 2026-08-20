@@ -53,28 +53,38 @@ with a focus on **secure software development and cybersecurity**.
 ## `$ stack --list`
 
 ```text
-[Programming]
-Dart · C# · JavaScript · Python
+<h2 align="center"><code>$ stack --list</code></h2>
 
-[Frameworks]
-Flutter · Node.js
-
-[Web]
-HTML · CSS · REST API
-
-[Database]
-PostgreSQL · MySQL · MongoDB · Firebase
-
-[Cloud]
-Google Cloud
-
-[Security]
-OWASP Top 10 · Secure Coding · Penetration Testing
-Vulnerability Assessment · JWT · OAuth 2.0 · SSL/TLS
-
-[Tools]
-Git · GitHub · Docker · Linux
-VS Code · Android Studio · Postman · Figma
+<table align="center">
+  <tr>
+    <td align="right"><b>Programming</b></td>
+    <td><code>Dart · C# · JavaScript · Python</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks</b></td>
+    <td><code>Flutter · Node.js</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Web</b></td>
+    <td><code>HTML · CSS · REST API</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Database</b></td>
+    <td><code>PostgreSQL · MySQL · MongoDB · Firebase</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud</b></td>
+    <td><code>Google Cloud</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Security</b></td>
+    <td><code>OWASP Top 10 · Secure Coding · Pentesting · OAuth 2.0</code></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><code>Git · GitHub · Docker · Linux · VS Code · Android Studio · Postman · Figma</code></td>
+  </tr>
+</table>
 ```
 
 <br>
