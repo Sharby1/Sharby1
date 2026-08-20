@@ -41,84 +41,85 @@
 
 ## `$ whoami`
 
-**Furkan Sarı**
+### Furkan Sarı
 
-`Software Developer` · `Cybersecurity Enthusiast`
+**Software Developer · Cybersecurity Enthusiast**
 
 I build software across **mobile, web and backend systems**,
 with a focus on **secure software development and cybersecurity**.
 
 <br>
 
-## `$ stack --list`
+<h2><code>$ stack --list</code></h2>
 
-```text
-<h2 align="center"><code>$ stack --list</code></h2>
+<table>
+<tr>
+<td align="right"><b>Programming</b></td>
+<td><code>Dart · C# · JavaScript · Python</code></td>
+</tr>
 
-<table align="center">
-  <tr>
-    <td align="right"><b>Programming</b></td>
-    <td><code>Dart · C# · JavaScript · Python</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frameworks</b></td>
-    <td><code>Flutter · Node.js</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Web</b></td>
-    <td><code>HTML · CSS · REST API</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Database</b></td>
-    <td><code>PostgreSQL · MySQL · MongoDB · Firebase</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Cloud</b></td>
-    <td><code>Google Cloud</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Security</b></td>
-    <td><code>OWASP Top 10 · Secure Coding · Pentesting · OAuth 2.0</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools</b></td>
-    <td><code>Git · GitHub · Docker · Linux · VS Code · Android Studio · Postman · Figma</code></td>
-  </tr>
+<tr>
+<td align="right"><b>Frameworks</b></td>
+<td><code>Flutter · Node.js</code></td>
+</tr>
+
+<tr>
+<td align="right"><b>Web</b></td>
+<td><code>HTML · CSS · REST API</code></td>
+</tr>
+
+<tr>
+<td align="right"><b>Database</b></td>
+<td><code>PostgreSQL · MySQL · MongoDB · Firebase</code></td>
+</tr>
+
+<tr>
+<td align="right"><b>Cloud</b></td>
+<td><code>Google Cloud</code></td>
+</tr>
+
+<tr>
+<td align="right"><b>Security</b></td>
+<td><code>OWASP · Secure Coding · Pentesting · OAuth 2.0</code></td>
+</tr>
+
+<tr>
+<td align="right"><b>Tools</b></td>
+<td><code>Git · Docker · Linux · VS Code · Android Studio · Postman · Figma</code></td>
+</tr>
 </table>
-```
 
 <br>
 
 ## `$ projects --list`
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  Miyosis ERP                                        │
-│  └─ Enterprise Resource Planning                    │
-│                                                     │
-│  MiyoRES                                            │
-│  └─ Restaurant Management Ecosystem                 │
-│                                                     │
-│  Konken                                             │
-│  └─ Software Project                                │
-│                                                     │
-│  Fiyat Gör                                          │
-│  └─ Price-focused Application                      │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  Miyosis ERP                                     │
+│  └─ Enterprise Resource Planning                 │
+│                                                  │
+│  MiyoRES                                         │
+│  └─ Restaurant Management Ecosystem              │
+│                                                  │
+│  Konken                                          │
+│  └─ Software Project                             │
+│                                                  │
+│  Fiyat Gör                                       │
+│  └─ Price-focused Application                   │
+│                                                  │
+└──────────────────────────────────────────────────┘
 ```
 
 <br>
 
 ## `$ connect`
 
-```text
-Website  ──>  mfurkansari.com
-GitHub   ──>  github.com/Sharby1
-```
+**Website**
+[mfurkansari.com](https://mfurkansari.com)
 
-[Website](https://mfurkansari.com) · [GitHub](https://github.com/Sharby1)
+**GitHub**
+[github.com/Sharby1](https://github.com/Sharby1)
 
 <br>
 
