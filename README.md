@@ -1,4 +1,4 @@
-```text
+```text id="ascii-portrait"
                                .........::          furkan@Sharby1
                        .:----.   ....:::=*###       -------------------------
                    .:=+*%@@%%%*=--+*####%@%%%%%%    Role: Software Developer
@@ -39,102 +39,118 @@
 
 <div align="center">
 
-## `$ whoami`
+<h2><code>$ whoami</code></h2>
 
-### Furkan Sarı
+<h3>Furkan Sarı</h3>
 
-**Software Developer · Cybersecurity Enthusiast**
+<strong>Software Developer · Cybersecurity Enthusiast</strong>
 
-I build software across **mobile, web and backend systems**,
-with a focus on **secure software development and cybersecurity**.
+<br><br>
 
-<br>
+I build software across <strong>mobile, web and backend systems</strong>,<br>
+with a focus on <strong>secure software development and cybersecurity</strong>.
+
+<br><br>
 
 <h2><code>$ stack --list</code></h2>
 
 <table>
-<tr>
-<td align="right"><b>Programming</b></td>
-<td><code>Dart · C# · JavaScript · Python</code></td>
-</tr>
-
-<tr>
-<td align="right"><b>Frameworks</b></td>
-<td><code>Flutter · Node.js</code></td>
-</tr>
-
-<tr>
-<td align="right"><b>Web</b></td>
-<td><code>HTML · CSS · REST API</code></td>
-</tr>
-
-<tr>
-<td align="right"><b>Database</b></td>
-<td><code>PostgreSQL · MySQL · MongoDB · Firebase</code></td>
-</tr>
-
-<tr>
-<td align="right"><b>Cloud</b></td>
-<td><code>Google Cloud</code></td>
-</tr>
-
-<tr>
-<td align="right"><b>Security</b></td>
-<td><code>OWASP · Secure Coding · Pentesting · OAuth 2.0</code></td>
-</tr>
-
-<tr>
-<td align="right"><b>Tools</b></td>
-<td><code>Git · Docker · Linux · VS Code · Android Studio · Postman · Figma</code></td>
-</tr>
+  <tr>
+    <td align="right"><strong>Programming</strong></td>
+    <td><code>Dart · C# · JavaScript · Python</code></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Frameworks</strong></td>
+    <td><code>Flutter · Node.js</code></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Web</strong></td>
+    <td><code>HTML · CSS · REST API</code></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Database</strong></td>
+    <td><code>PostgreSQL · MySQL · MongoDB · Firebase</code></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Cloud</strong></td>
+    <td><code>Google Cloud</code></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Security</strong></td>
+    <td><code>OWASP · Secure Coding · Pentesting · OAuth 2.0</code></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Tools</strong></td>
+    <td><code>Git · GitHub · Docker · Linux · VS Code · Android Studio · Postman · Figma</code></td>
+  </tr>
 </table>
 
+<br><br>
+
+<h2><code>$ projects --list</code></h2>
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><strong>Miyosis ERP</strong></td>
+    <td><code>Enterprise Resource Planning</code></td>
+  </tr>
+  <tr>
+    <td><strong>MiyoRES</strong></td>
+    <td><code>Restaurant Management Ecosystem</code></td>
+  </tr>
+  <tr>
+    <td><strong>Konken</strong></td>
+    <td><code>Software Project</code></td>
+  </tr>
+  <tr>
+    <td><strong>Fiyat Gör</strong></td>
+    <td><code>Price-focused Application</code></td>
+  </tr>
+</table>
+
+<br><br>
+
+<h2><code>$ connect</code></h2>
+
+<table>
+  <tr>
+    <td align="right"><strong>Website</strong></td>
+    <td><a href="https://mfurkansari.com">mfurkansari.com</a></td>
+  </tr>
+  <tr>
+    <td align="right"><strong>GitHub</strong></td>
+    <td><a href="https://github.com/Sharby1">github.com/Sharby1</a></td>
+  </tr>
+</table>
+
+<br><br>
+
+<h2><code>$ terminal</code></h2>
+
+<code>Sharby1@github:~$ whoami</code>
+
 <br>
 
-## `$ projects --list`
+<strong>Furkan Sarı</strong>
 
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  Miyosis ERP                                     │
-│  └─ Enterprise Resource Planning                 │
-│                                                  │
-│  MiyoRES                                         │
-│  └─ Restaurant Management Ecosystem              │
-│                                                  │
-│  Konken                                          │
-│  └─ Software Project                             │
-│                                                  │
-│  Fiyat Gör                                       │
-│  └─ Price-focused Application                   │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+<br><br>
 
-<br>
+<code>Sharby1@github:~$ cat philosophy.txt</code>
 
-## `$ connect`
+<br><br>
 
-**Website**
-[mfurkansari.com](https://mfurkansari.com)
+<code>Build.</code><br> <code>Break.</code><br> <code>Understand.</code><br> <code>Improve.</code><br> <code>Repeat.</code>
 
-**GitHub**
-[github.com/Sharby1](https://github.com/Sharby1)
+<br><br>
 
-<br>
+<code>Sharby1@github:~$ █</code>
 
-```text
-Sharby1@github:~$ whoami
-Furkan Sarı
+<br><br>
 
-Sharby1@github:~$ cat philosophy.txt
-Build.
-Break.
-Understand.
-Improve.
-Repeat.
-
-Sharby1@github:~$ █
-```
+<strong>Thanks for stopping by.</strong>
 
 </div>
