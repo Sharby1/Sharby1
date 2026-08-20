@@ -70,9 +70,18 @@ Building across **mobile, web and backend systems** with an interest in
 
 ### `$ github --stats`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sharby1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharby1&layout=compact&theme=transparent&hide_border=true" />
-
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Sharby1&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Sharby1 GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sharby1&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Sharby1 Top Languages"
+  />
+</p>
 <br>
 
 ### `$ connect`
