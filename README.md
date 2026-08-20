@@ -53,22 +53,21 @@ with a focus on **secure software development and cybersecurity**.
 ## `$ stack --list`
 
 ```text
-Programming  ──>  Dart · C# · JavaScript · Python
-Frameworks   ──>  Flutter · Node.js
-Web          ──>  HTML · CSS · REST API
+Programming  ──  Dart, C#, JavaScript, Python
+Frameworks   ──  Flutter, Node.js
+Web          ──  HTML, CSS, REST API
 
-Database     ──>  PostgreSQL · MySQL · MongoDB · Firebase
-Cloud        ──>  Google Cloud
+Database     ──  PostgreSQL, MySQL, MongoDB, Firebase
+Cloud        ──  Google Cloud
 
-Security     ──>  OWASP Top 10
-                  Secure Coding
-                  Penetration Testing
-                  Vulnerability Assessment
-                  JWT · OAuth 2.0 · SSL/TLS
+Security     ──  OWASP Top 10, Secure Coding
+                 Penetration Testing
+                 Vulnerability Assessment
+                 JWT, OAuth 2.0, SSL/TLS
 
-Tools        ──>  Git · GitHub · Docker · Linux
-                  VS Code · Android Studio
-                  Postman · Figma
+Tools        ──  Git, GitHub, Docker, Linux
+                 VS Code, Android Studio
+                 Postman, Figma
 ```
 
 <br>
